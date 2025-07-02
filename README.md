@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://2025.ijcnn.org/" target="_blank">
-    <img src="https://www.labdma.unina.it/wp-content/uploads/2024/12/headerijcnn.jpg" alt="EUSIPCO Logo" width="400"/>
+    <img src="https://github.com/RomainMsrd/UniJDOT/blob/main/img/19f71ec2-dde3-b46d-80a4-51e7a5012d76.png" alt="EUSIPCO Logo" width="400"/>
   </a>
 </p>
 
